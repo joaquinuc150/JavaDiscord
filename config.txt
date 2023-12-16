@@ -1,3 +1,0 @@
-token = OTA2NzY3MTc3MTkxOTM2MDMy.YYdavQ.b3HXiRibJSixDjM0_dZT02_prLA
-owner = 906767177191936032
-prefix = "m"
